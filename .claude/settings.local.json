@@ -29,7 +29,12 @@
       "Bash(open build/ios/archive/Runner.xcarchive)",
       "Bash(open:*)",
       "Bash(git config:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(sed:*)",
+      "Bash(python3:*)",
+      "Bash(git submodule:*)",
+      "Bash(/Users/enamegyir/Library/Android/sdk/tools/bin/sdkmanager:*)",
+      "Bash(/Users/enamegyir/Library/Android/sdk/platform-tools/adb --version)"
     ],
     "deny": []
   }
