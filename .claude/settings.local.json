@@ -9,7 +9,8 @@
       "Bash(flutter build:*)",
       "Bash(rm:*)",
       "Bash(pod install:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
