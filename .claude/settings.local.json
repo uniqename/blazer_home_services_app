@@ -10,7 +10,26 @@
       "Bash(rm:*)",
       "Bash(pod install:*)",
       "Bash(find:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git add:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(grep:*)",
+      "Bash(./gradlew:*)",
+      "Bash(flutter:*)",
+      "Bash(git push:*)",
+      "Bash(sudo:*)",
+      "Bash(git clone:*)",
+      "Bash(killall:*)",
+      "Bash(rg:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(export:*)",
+      "Bash(true)",
+      "Bash(security find-identity:*)",
+      "Bash(open build/ios/archive/Runner.xcarchive)",
+      "Bash(open:*)",
+      "Bash(git config:*)",
+      "Bash(git reset:*)"
     ],
     "deny": []
   }
