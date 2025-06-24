@@ -1,7 +1,15 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(flutter clean:*)",
+      "Bash(flutter pub:*)",
+      "Bash(flutter run:*)",
+      "Bash(pkill:*)",
+      "Bash(flutter build:*)",
+      "Bash(rm:*)",
+      "Bash(pod install:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
