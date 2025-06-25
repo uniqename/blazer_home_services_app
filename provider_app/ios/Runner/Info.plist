@@ -45,5 +45,43 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	
+	<!-- Location permissions -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs location access to show nearby service providers and calculate distances for service requests.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app needs location access to show nearby service providers and track job locations for service delivery.</string>
+	
+	<!-- Camera permissions -->
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to take photos of completed work and service documentation.</string>
+	
+	<!-- Photo library permissions -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs photo library access to select images for service documentation and profile photos.</string>
+	
+	<!-- Microphone permissions -->
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs microphone access for voice calls with customers during service delivery.</string>
+	
+	<!-- Contacts permissions -->
+	<key>NSContactsUsageDescription</key>
+	<string>This app needs contacts access to easily communicate with customers and other service providers.</string>
+	
+	<!-- Bluetooth permissions -->
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app uses Bluetooth to connect with nearby devices for payment processing and service equipment.</string>
+	
+	<!-- Motion permissions -->
+	<key>NSMotionUsageDescription</key>
+	<string>This app uses motion sensors to track service delivery routes and optimize navigation.</string>
+	
+	<!-- Calendar permissions -->
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app needs calendar access to schedule service appointments and manage your availability.</string>
+	
+	<!-- Face ID permissions -->
+	<key>NSFaceIDUsageDescription</key>
+	<string>This app uses Face ID for secure authentication and quick login to your provider account.</string>
 </dict>
 </plist>

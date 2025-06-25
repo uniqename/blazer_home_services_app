@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'dashboard.dart';
 
-class ProviderLoginScreen extends StatefulWidget {
-  const ProviderLoginScreen({super.key});
+class LoginScreen extends StatefulWidget {
+  const LoginScreen({super.key});
 
   @override
-  State<ProviderLoginScreen> createState() => _ProviderLoginScreenState();
+  State<LoginScreen> createState() => _LoginScreenState();
 }
 
-class _ProviderLoginScreenState extends State<ProviderLoginScreen> {
+class _LoginScreenState extends State<LoginScreen> {
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
   final _formKey = GlobalKey<FormState>();

@@ -1,6 +1,6 @@
 name: provider_app
 description: A Flutter MVP for home service providers
-version: 1.0.0+6
+version: 1.0.0+8
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -8,35 +8,41 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.2
   
-  # Firebase & Backend Integration
+  # Firebase
   firebase_core: ^3.14.0
   cloud_firestore: ^5.6.9
   firebase_auth: ^5.6.0
   firebase_messaging: ^15.2.7
   
-  # HTTP & API
-  http: ^0.13.5
+  # UI/UX
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.7
+  cached_network_image: ^3.3.0
+  
+  # Utilities
+  intl: ^0.20.2
+  http: ^1.1.0
+  uuid: ^4.1.0
+  
+  # Navigation
+  go_router: ^12.1.1
   
   # State Management
-  provider: ^6.1.2
-  shared_preferences: ^2.2.2
+  provider: ^6.0.5
   
-  # Location & Maps
-  geolocator: ^14.0.1
-  google_maps_flutter: ^2.6.1
-  geocoding: ^4.0.0
+  # Calendar
+  table_calendar: ^3.0.9
   
-  # Media & UI
-  image_picker: ^1.0.7
-  intl: ^0.17.0
-  uuid: ^4.5.1
+  # Location
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true

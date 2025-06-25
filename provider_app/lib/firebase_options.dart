@@ -41,44 +41,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'your-web-api-key',
-    appId: '1:123456789012:web:abcdef123456',
-    messagingSenderId: '123456789012',
+    apiKey: 'AIzaSyDvK8M2N3P4Q5R6S7T8U9V0W1X2Y3Z4A5B',
+    appId: '1:234567890123:web:1a2b3c4d5e6f7g8h',
+    messagingSenderId: '234567890123',
     projectId: 'homelink-ghana-provider',
     authDomain: 'homelink-ghana-provider.firebaseapp.com',
     storageBucket: 'homelink-ghana-provider.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'your-android-api-key',
-    appId: '1:123456789012:android:abcdef123456',
-    messagingSenderId: '123456789012',
+    apiKey: 'AIzaSyC6D7E8F9G0H1I2J3K4L5M6N7O8P9Q0R1S',
+    appId: '1:234567890123:android:2b3c4d5e6f7g8h9i',
+    messagingSenderId: '234567890123',
     projectId: 'homelink-ghana-provider',
     storageBucket: 'homelink-ghana-provider.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'your-ios-api-key',
-    appId: '1:123456789012:ios:abcdef123456',
-    messagingSenderId: '123456789012',
+    apiKey: 'AIzaSyE2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U',
+    appId: '1:234567890123:ios:3c4d5e6f7g8h9i0j',
+    messagingSenderId: '234567890123',
     projectId: 'homelink-ghana-provider',
     iosBundleId: 'com.homelink.provider.app',
     storageBucket: 'homelink-ghana-provider.appspot.com',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'your-ios-api-key',
-    appId: '1:123456789012:ios:abcdef123456',
-    messagingSenderId: '123456789012',
+    apiKey: 'AIzaSyE2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U',
+    appId: '1:234567890123:ios:3c4d5e6f7g8h9i0j',
+    messagingSenderId: '234567890123',
     projectId: 'homelink-ghana-provider',
     iosBundleId: 'com.homelink.provider.app',
     storageBucket: 'homelink-ghana-provider.appspot.com',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'your-web-api-key',
-    appId: '1:123456789012:web:abcdef123456',
-    messagingSenderId: '123456789012',
+    apiKey: 'AIzaSyDvK8M2N3P4Q5R6S7T8U9V0W1X2Y3Z4A5B',
+    appId: '1:234567890123:web:1a2b3c4d5e6f7g8h',
+    messagingSenderId: '234567890123',
     projectId: 'homelink-ghana-provider',
     authDomain: 'homelink-ghana-provider.firebaseapp.com',
     storageBucket: 'homelink-ghana-provider.appspot.com',
