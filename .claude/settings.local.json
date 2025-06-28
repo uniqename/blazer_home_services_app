@@ -34,7 +34,23 @@
       "Bash(python3:*)",
       "Bash(git submodule:*)",
       "Bash(/Users/enamegyir/Library/Android/sdk/tools/bin/sdkmanager:*)",
-      "Bash(/Users/enamegyir/Library/Android/sdk/platform-tools/adb --version)"
+      "Bash(/Users/enamegyir/Library/Android/sdk/platform-tools/adb --version)",
+      "Bash(cat:*)",
+      "Bash(xcodebuild:*)",
+      "Bash(chmod:*)",
+      "Bash(./build_ios.sh)",
+      "Bash(java:*)",
+      "Bash(mv:*)",
+      "Bash(git pull:*)",
+      "Bash(keytool:*)",
+      "Bash(dart analyze:*)",
+      "Bash(touch:*)",
+      "Bash(/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/keytool -genkey -v -keystore homelinkgh-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias homelinkgh -storepass \"homelinkgh2024!\" -keypass \"homelinkgh2024!\" -dname \"CN=HomeLinkGH, OU=HomeLinkGH, O=HomeLinkGH, L=Accra, ST=Greater Accra, C=GH\")",
+      "Bash(/Applications/Android\\ Studio.app/Contents/jbr/Contents/Home/bin/keytool -genkey -v -keystore android/app/homelinkgh-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias homelinkgh -storepass \"homelinkgh2024!\" -keypass \"homelinkgh2024!\" -dname \"CN=HomeLinkGH, OU=HomeLinkGH, O=HomeLinkGH, L=Accra, ST=Greater Accra, C=GH\")",
+      "Bash(/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/keytool -genkey -v -keystore android/app/homelinkgh-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias homelinkgh -storepass \"homelinkgh2024!\" -keypass \"homelinkgh2024!\" -dname \"CN=HomeLinkGH, OU=HomeLinkGH, O=HomeLinkGH, L=Accra, ST=Greater Accra, C=GH\")",
+      "Bash(/usr/bin/java:*)",
+      "Bash(/usr/bin/keytool:*)",
+      "Bash(echo $JAVA_HOME)"
     ],
     "deny": []
   }
