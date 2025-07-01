@@ -16,7 +16,7 @@ class _SuccessStoriesTabState extends State<SuccessStoriesTab> {
       content: '''
 For years, I believed the voice in my head that told me I wasn't worth anything. I stayed silent, thinking that was safer. But silence wasn't protecting me—it was shrinking me.
 
-The turning point came when I walked into Safe Haven for the first time. I was scared, broken, and sure that no one would understand. But the counselor looked at me and said, "Your story matters, and so do you."
+The turning point came when I walked into Beacon of New Beginnings for the first time. I was scared, broken, and sure that no one would understand. But the counselor looked at me and said, "Your story matters, and so do you."
 
 It took months of therapy and support groups to even whisper my truth. But slowly, I found my voice. I learned that my experiences, while painful, had given me strength I didn't know I had.
 
@@ -62,7 +62,7 @@ To anyone still in the early days of their journey: take it one day at a time. E
       content: '''
 Five years ago, I thought my life was over. I had lost everything—my confidence, my sense of self, my belief that I deserved better. I felt completely alone.
 
-But I wasn't alone. The Safe Haven team showed me that I was part of a community of survivors who understood exactly what I was going through. In group therapy, I met women who had walked similar paths. Their strength inspired me to find my own.
+But I wasn't alone. The Beacon of New Beginnings team showed me that I was part of a community of survivors who understood exactly what I was going through. In group therapy, I met women who had walked similar paths. Their strength inspired me to find my own.
 
 As I healed, I realized that my experiences had given me something valuable: the ability to truly understand and help others in similar situations. I decided to study social work, with support from the education assistance program.
 

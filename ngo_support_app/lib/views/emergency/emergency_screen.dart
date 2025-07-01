@@ -82,7 +82,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
       final success = await emergencyService.sendEmergencyAlert(
         userId: currentUser.uid,
         location: _currentPosition!,
-        message: 'Emergency alert triggered from Safe Haven app',
+        message: 'Emergency alert triggered from Beacon of New Beginnings app',
       );
 
       if (success && mounted) {

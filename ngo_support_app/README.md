@@ -1,4 +1,4 @@
-# Safe Haven - NGO Support App
+# Beacon of New Beginnings - NGO Support App
 
 > **Providing safety, healing, and empowerment to survivors of abuse and homelessness through comprehensive digital support services.**
 
@@ -7,7 +7,7 @@ A Ghana where every person, regardless of their past trauma or circumstances, ha
 
 ## 📱 App Overview
 
-Safe Haven is a trauma-informed mobile application designed specifically for survivors of domestic violence, abuse, and homelessness in Ghana. The app provides immediate access to emergency services, resources, and community support while prioritizing user safety and privacy.
+Beacon of New Beginnings is a trauma-informed mobile application designed specifically for survivors of domestic violence, abuse, and homelessness in Ghana. The app provides immediate access to emergency services, resources, and community support while prioritizing user safety and privacy.
 
 ### Key Features
 
@@ -48,8 +48,8 @@ Safe Haven is a trauma-informed mobile application designed specifically for sur
 - **Security**: Firebase Security Rules, encrypted local storage
 
 ### Bundle IDs
-- **Android**: `com.safehavengh.ngo_support_app`
-- **iOS**: `com.safehavengh.ngo-support-app`
+- **Android**: `com.beaconnewbeginnings.ngo_support_app`
+- **iOS**: `com.beaconnewbeginnings.ngo-support-app`
 
 ## 🚀 Getting Started
 
@@ -63,8 +63,8 @@ Safe Haven is a trauma-informed mobile application designed specifically for sur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/safe-haven-app.git
-   cd safe-haven-app/ngo_support_app
+   git clone https://github.com/your-org/beacon-of-new-beginnings-app.git
+   cd beacon-of-new-beginnings-app/ngo_support_app
    ```
 
 2. **Install dependencies**
@@ -90,7 +90,7 @@ Safe Haven is a trauma-informed mobile application designed specifically for sur
 ### Ghana Emergency Services
 - **Emergency Hotline**: 999 (Police, Fire, Medical)
 - **Domestic Violence Hotline**: 0800-800-800 (24/7 Support)
-- **Safe Haven Support**: +233-XXX-XXXX
+- **Beacon of New Beginnings Support**: +233-XXX-XXXX
 
 ## 📄 License
 
@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **"Your safety matters. Your story matters. You matter."**
 
-*Safe Haven - Empowering survivors, building futures.*
+*Beacon of New Beginnings - Empowering survivors, building futures.*

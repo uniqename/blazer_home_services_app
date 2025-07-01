@@ -239,13 +239,13 @@ class ResourceService {
     try {
       final sampleResources = [
         {
-          'name': 'Safe Haven Emergency Shelter',
+          'name': 'Beacon of New Beginnings Emergency Shelter',
           'description': 'Secure emergency accommodation for women and children escaping domestic violence',
           'type': 'shelter',
           'status': 'available',
           'address': 'Accra, Ghana',
           'phone': '+233-XXX-XXXX',
-          'email': 'shelter@safehavengh.org',
+          'email': 'shelter@beaconnewbeginnings.org',
           'services': ['Emergency accommodation', 'Meals', 'Childcare', 'Security'],
           'operatingHours': {
             'monday': '24 hours',

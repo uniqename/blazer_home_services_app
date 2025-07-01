@@ -41,11 +41,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'your-android-api-key',
-    appId: 'your-android-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'ngo-support-app',
-    storageBucket: 'ngo-support-app.appspot.com',
+    apiKey: 'AIzaSyDemo-Key-For-Testing-Only-Not-Real',
+    appId: '1:123456789:android:demo-app-id',
+    messagingSenderId: '123456789',
+    projectId: 'beacon-new-beginnings-demo',
+    storageBucket: 'beacon-new-beginnings-demo.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: 'your-sender-id',
     projectId: 'ngo-support-app',
     storageBucket: 'ngo-support-app.appspot.com',
-    iosBundleId: 'com.safehavengh.ngo-support-app',
+    iosBundleId: 'com.beaconnewbeginnings.ngo-support-app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: 'your-sender-id',
     projectId: 'ngo-support-app',
     storageBucket: 'ngo-support-app.appspot.com',
-    iosBundleId: 'com.safehavengh.ngo-support-app',
+    iosBundleId: 'com.beaconnewbeginnings.ngo-support-app',
   );
 }

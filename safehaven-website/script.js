@@ -1,4 +1,4 @@
-// Safe Haven Website JavaScript
+// Beacon of New Beginnings Website JavaScript
 
 // Global variables
 let currentUser = null;
@@ -185,9 +185,9 @@ function donate(amount) {
     });
 
     // Redirect to payment processor (replace with actual URL)
-    const paymentUrl = `https://payment-processor.com/donate?amount=${amount}&currency=GHS&cause=safe-haven`;
+    const paymentUrl = `https://payment-processor.com/donate?amount=${amount}&currency=GHS&cause=beacon-of-new-beginnings`;
     
-    if (confirm(`Donate ₵${amount} to Safe Haven Ghana?`)) {
+    if (confirm(`Donate ₵${amount} to Beacon of New Beginnings Ghana?`)) {
         // In production, this would redirect to Stripe/Paystack
         alert(`Thank you for your ₵${amount} donation! This would redirect to secure payment.`);
         // window.location.href = paymentUrl;
@@ -270,7 +270,7 @@ function quickExit() {
         sessionStorage.clear();
         
         // Clear local storage (be careful with this)
-        localStorage.removeItem('safehaven_data');
+        localStorage.removeItem('beacon_data');
         
         // Replace current page in history and redirect
         window.location.replace('https://www.google.com');

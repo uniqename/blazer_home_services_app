@@ -1,4 +1,4 @@
-# Safe Haven - Deployment Guide
+# Beacon of New Beginnings - Deployment Guide
 
 ## 🚀 Production Deployment Strategy
 
@@ -100,7 +100,7 @@ flutter build appbundle --release
 ```
 
 4. **Google Play Console Setup**:
-   - Create new app: "Safe Haven - Support Services"
+   - Create new app: "Beacon of New Beginnings - Support Services"
    - App category: Medical
    - Content rating: Mature 17+ (sensitive content)
    - Target audience: Adults only
@@ -114,8 +114,8 @@ flutter build appbundle --release
 
 **Steps:**
 1. **App Store Connect Setup**:
-   - Bundle ID: `com.safehavengh.ngo-support-app`
-   - App Name: "Safe Haven - Support Services"
+   - Bundle ID: `com.beaconnewbeginnings.ngo-support-app`
+   - App Name: "Beacon of New Beginnings - Support Services"
    - Primary Category: Medical
    - Secondary Category: Social Networking
 
@@ -299,6 +299,6 @@ flutter build ios --release
 ---
 
 **Emergency Deployment Contacts:**
-- Technical Lead: tech@safehavengh.org
-- Crisis Coordinator: crisis@safehavengh.org
-- Executive Director: director@safehavengh.org
+- Technical Lead: tech@beaconnewbeginnings.org
+- Crisis Coordinator: crisis@beaconnewbeginnings.org
+- Executive Director: director@beaconnewbeginnings.org

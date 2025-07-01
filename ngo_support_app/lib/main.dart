@@ -8,9 +8,16 @@ import 'views/auth_wrapper.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
+  // For demo/testing purposes, we'll try to initialize Firebase
+  // but continue even if it fails
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+    print('Firebase initialized successfully');
+  } catch (e) {
+    print('Firebase initialization failed (continuing in demo mode): $e');
+  }
   
   runApp(const NGOSupportApp());
 }
@@ -27,7 +34,7 @@ class NGOSupportApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'NGO Support App',
+        title: 'Beacon of New Beginnings',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.teal,
@@ -41,10 +48,10 @@ class NGOSupportApp extends StatelessWidget {
             foregroundColor: Colors.white,
             elevation: 0,
           ),
-          cardTheme: CardTheme(
+          cardTheme: const CardThemeData(
             elevation: 2,
             shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(12),
+              borderRadius: BorderRadius.all(Radius.circular(12)),
             ),
           ),
           elevatedButtonTheme: ElevatedButtonThemeData(
