@@ -76,7 +76,8 @@
       "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --window-size=2048,2732 --screenshot=\"/Users/enamegyir/Desktop/HomeLinkGH_iPad_Features.png\" \"file:///Users/enamegyir/Documents/Projects/blazer_home_services_app/customer_app/docs/ipad_screenshots/screenshot_3_features.html\")",
       "Bash(sips:*)",
       "Bash(plutil:*)",
-      "Bash(./take_screenshots.sh:*)"
+      "Bash(./take_screenshots.sh:*)",
+      "Bash(git submodule:*)"
     ],
     "deny": []
   }
