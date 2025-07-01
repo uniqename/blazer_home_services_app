@@ -1,0 +1,21 @@
+📍 LOGO PLACEMENT INSTRUCTIONS
+
+To add your Beacon of New Beginnings logo to the website:
+
+1. Download your logo from Canva as PNG format (with transparent background if possible)
+
+2. Rename the file to: logo.png
+
+3. Place it in this folder (website/assets/)
+
+4. The website will automatically display your logo instead of the emoji
+
+REQUIREMENTS:
+- File name: logo.png
+- Format: PNG (preferred) or JPG
+- Size: At least 200x200 pixels
+- Background: Transparent (PNG) or white/light color
+
+The website is set up to automatically use your logo once you place it here!
+
+If you need help with this, refer to LOGO_INTEGRATION_GUIDE.md in the main package folder.
