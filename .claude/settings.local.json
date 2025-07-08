@@ -77,7 +77,16 @@
       "Bash(sips:*)",
       "Bash(plutil:*)",
       "Bash(./take_screenshots.sh:*)",
-      "Bash(git submodule:*)"
+      "Bash(git submodule:*)",
+      "Bash(touch:*)",
+      "Bash(gem install:*)",
+      "Bash(brew install:*)",
+      "Bash(pod deintegrate:*)",
+      "Bash(sed:*)",
+      "Bash(for:*)",
+      "Bash(do cp Icon-App-1024x1024@1x.png \"$file\")",
+      "Bash(done)",
+      "WebFetch(domain:homelinkgh.com)"
     ],
     "deny": []
   }
