@@ -1,3 +1,10 @@
 *.DS_Store
 build/
-*.log
+*.log# App Store Submission Packets
+BEACON_APP_REVIEW_SUBMISSIONS/
+*_REVIEW_SUBMISSIONS/
+submission_packets/
+app_store_assets/
+*.aab
+*.ipa
+*.apk
