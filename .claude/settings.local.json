@@ -86,7 +86,10 @@
       "Bash(npm run generate:*)",
       "Bash(aapt:*)",
       "Bash(ffmpeg:*)",
-      "Bash(git restore:*)"
+      "Bash(git restore:*)",
+      "Bash(git fetch:*)",
+      "Bash(git rm:*)",
+      "Bash(rsync:*)"
     ],
     "deny": []
   }
