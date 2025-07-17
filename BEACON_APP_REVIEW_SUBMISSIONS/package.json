@@ -1,0 +1,12 @@
+{
+  "name": "beacon-screenshots",
+  "version": "1.0.0",
+  "description": "Screenshot generator for Beacon app store submissions",
+  "main": "generate_screenshots.js",
+  "scripts": {
+    "screenshots": "node generate_screenshots.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.11.0"
+  }
+}

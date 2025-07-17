@@ -67,8 +67,6 @@
       "Bash(/usr/libexec/java_home:*)",
       "Bash(brew install:*)",
       "Bash(/opt/homebrew/opt/openjdk@17/bin/keytool:*)",
-      "Bash(xcrun simctl list:*)",
-      "Bash(xcrun simctl boot:*)",
       "Bash(npm install:*)",
       "Bash(node:*)",
       "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --window-size=2048,2732 --screenshot=\"/Users/enamegyir/Desktop/HomeLinkGH_iPad_Welcome.png\" \"file:///Users/enamegyir/Documents/Projects/blazer_home_services_app/customer_app/docs/ipad_screenshots/screenshot_1_welcome.html\")",
@@ -77,16 +75,17 @@
       "Bash(sips:*)",
       "Bash(plutil:*)",
       "Bash(./take_screenshots.sh:*)",
-      "Bash(git submodule:*)",
-      "Bash(touch:*)",
       "Bash(gem install:*)",
-      "Bash(brew install:*)",
-      "Bash(pod deintegrate:*)",
-      "Bash(sed:*)",
       "Bash(for:*)",
       "Bash(do cp Icon-App-1024x1024@1x.png \"$file\")",
       "Bash(done)",
-      "WebFetch(domain:homelinkgh.com)"
+      "WebFetch(domain:homelinkgh.com)",
+      "Bash(npm create:*)",
+      "Bash(npm init:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm run generate:*)",
+      "Bash(aapt:*)",
+      "Bash(ffmpeg:*)"
     ],
     "deny": []
   }

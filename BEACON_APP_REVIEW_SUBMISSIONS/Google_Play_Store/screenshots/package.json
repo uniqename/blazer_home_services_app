@@ -1,0 +1,15 @@
+{
+  "name": "beacon-screenshots",
+  "version": "1.0.0",
+  "description": "Generate Google Play Store screenshots for Beacon app",
+  "main": "generate_screenshots.js",
+  "scripts": {
+    "generate": "node generate_screenshots.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "Beacon of New Beginnings",
+  "license": "MIT"
+}
