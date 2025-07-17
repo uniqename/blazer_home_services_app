@@ -85,7 +85,8 @@
       "Bash(npx tailwindcss:*)",
       "Bash(npm run generate:*)",
       "Bash(aapt:*)",
-      "Bash(ffmpeg:*)"
+      "Bash(ffmpeg:*)",
+      "Bash(git restore:*)"
     ],
     "deny": []
   }
