@@ -89,7 +89,10 @@
       "Bash(git restore:*)",
       "Bash(git fetch:*)",
       "Bash(git rm:*)",
-      "Bash(rsync:*)"
+      "Bash(rsync:*)",
+      "Bash(echo:*)",
+      "Bash(curl:*)",
+      "Bash(./reorganize_projects.sh:*)"
     ],
     "deny": []
   }
